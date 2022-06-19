@@ -1,0 +1,13 @@
+{
+	"wait": "Tunggu sebentar, Permintaan anda sedang diproses..",
+	"error": {
+		"Iv": "Link tidak valid!!",
+		"api": "Maaf, error :("
+	},
+	"OnlyGrup": "Command/Fitur ini hanya bisa digunakan di dalam Group!!",
+	"OnlyPM": "Command/Fitur ini hanya bisa digunakan di Private Chat!!",
+	"GrupAdmin": "Command ini hanya dapat dilakukan oleh Atmin!!",
+	"BotAdmin": "Bot bukan atmin!!",
+	"OnlyOwner": "Command ini untuk Ownerr!!",
+	"OnlyPrem": "Premium Command,\nKetik *!owner* untuk meminta Premium user!!"
+}

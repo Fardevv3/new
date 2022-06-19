@@ -1,0 +1,19 @@
+{
+	"owner": ["18312576749@s.whatsapp.net"],
+	"thumbvideo": "https://uploader.caliph.my.id/file/hU0F0HZ9K4.mp4",
+	"thumb": "https://telegra.ph/file/ae37fbbd5728e3c1e9cb8.png",
+	"url": "https://instagram.com/fardev78",
+	"session": "session.json",
+	"ownername": "Fdev78",
+	"self": false,
+	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+	"packInfo": { "packname": "WhatsApp bot", "author": "Multi Device" },
+	"namebot": "WhatsApp bot",
+	"timezone": "Asia/Jakarta",
+	"email": "farrrgf300@gmail.com",
+	"instagram": "https://instagram.com/fardev78",
+	"locale": "id",
+	"ignore": {
+		"directory": ["umum"]
+	}
+}
